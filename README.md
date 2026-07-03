@@ -8,11 +8,11 @@
 
 ---
 
-# 🏥 ABC2026 — Xác Định Vị Trí (Phòng) Bằng BLE Trong Cơ Sở Chăm Sóc
+# 🏥 ISAS2026 — Xác Định Vị Trí (Phòng) Bằng BLE Trong Cơ Sở Chăm Sóc
 
 **Decode the Invisible Challenge** — Dự đoán phòng của caregiver trên tầng 5 từ tín hiệu RSSI của 25 BLE beacon.
 
-**Team:** Sozolab
+**Team:** Please Flob! I teach fish to swim
 
 ---
 
