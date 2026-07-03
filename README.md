@@ -285,9 +285,9 @@ python code/04_final_training.py
 
 ## 🏆 Lời Cảm Ơn
 
-- Ban tổ chức **ABC2026 Decode the Invisible Challenge** đã cung cấp dữ liệu
-- Các thành viên team **Sozolab**
-- Xây dựng với ❤️ bằng scikit-learn, pandas và numpy
+- Ban tổ chức **ISAS2026 Decode the Invisible Challenge** đã cung cấp dữ liệu
+- Các thành viên team **Please Flob! I teach fish to swim**
+- Xây dựng bằng scikit-learn, pandas và numpy
 
 ---
 
