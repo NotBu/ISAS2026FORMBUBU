@@ -1,0 +1,22 @@
+# Raw data
+Dataset/
+Dataset folder zipped.zip
+BLE_Test_predict.csv
+ble_train_4d.csv
+
+# Generated cache
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model artifact
+room_model.pkl
+
+# Tutorial / random files
+ABC2026 Decode the Invisible Challenge Tutorial - Dec. 1 (1).pdf
+731014470_1035938845615191_5561613365412598799_n.jpg
+
+# Duplicate notebooks (in notebooks/)
+1_Label location_train.ipynb
+2_BLE_train data_5f.ipynb
